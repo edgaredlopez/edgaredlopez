@@ -43,4 +43,28 @@
 - 🧾 Implementación completa de un sistema de soporte basado en tickets.
 - 🎲 Desarrollo de una **tómbola digital giratoria web** para sorteos entre asociados y personal interno.
 - 💬 Implementación de un sistema de **chat grupal en tiempo real** mediante sockets.
-- 📷 Plataforma para eventos con gafetes QR: registro por DPI, votaciones en tiempo real, reportes, y kioscos
+- 📷 Plataforma para eventos con gafetes QR: registro por DPI, votaciones en tiempo real, reportes, y kioscos de votación.
+- 🛒 Sistema de **compras corporativas** con trazabilidad, firmas electrónicas, tiempos medidos, y documentos automáticos.
+- 💼 Sistema integral de ventas: inventarios, traslados, facturación electrónica, conexión a SAT (NIT/CUI), reportes, clientes y proveedores.
+- 🏦 Plataforma completa de créditos: creación, autorización, contratos automáticos, pagos, control de cartera, inversiones y documentación.
+- 🧩 Desarrollo de soluciones personalizadas para empresas y negocios: automatización, reportes, módulos administrativos.
+- 👕 Sistema de pedidos para serigrafías.
+- 🍽️ Sistemas personalizados para restaurantes: pedidos, control, facturación y gestión operativa.
+
+🎯 **Lema profesional:**  
+*"Lo que no se mide, no se puede mejorar."*
+
+---
+
+### 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=edgaredlopez&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+### 🙋‍♂️ Conectemos
+
+Podés encontrarme en redes como **@edgaredlopez** 🧠💬  
+¡Estoy abierto a colaboraciones, ideas y nuevas aventuras tecnológicas! 🚀

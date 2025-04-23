@@ -1,7 +1,7 @@
 <h1 align="center">Edgar López Laynez</h1>
 <h3 align="center">
 👨‍🏫 Ingeniero en Sistemas y TIC's | 💻 FullStack Developer  
-🚀 Fundador de Edbyte | 🧠 Desarrollador de Software en COTONEB (MiCoope)
+🚀 Fundador de Edbyte Technology | 🧠 Desarrollador de Software en COTONEB (MiCoope)
 </h3>
 
 <p align="center">

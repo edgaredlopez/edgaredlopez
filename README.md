@@ -10,7 +10,7 @@
 </p>
 
 ---
-
+### ✅ Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [edgaredlopez/edgaredlopez](https://github.com/edgaredlopez/edgaredlopez)<br>
 2. ⬆️ Pushed 1 commit(s) to [edgaredlopez/edgaredlopez](https://github.com/edgaredlopez/edgaredlopez)<br>

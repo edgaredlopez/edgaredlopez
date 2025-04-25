@@ -10,7 +10,11 @@
 </p>
 
 ---
+<!--RECENT_ACTIVITY:start-->
 
+<!--RECENT_ACTIVITY:last_update-->
+
+---
 ### 🌐 Sitios y contacto
 
 - 🌍 Web personal: [edgared.dev](https://edgared.dev)
